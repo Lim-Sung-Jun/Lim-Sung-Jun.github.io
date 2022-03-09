@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SungjunLim Pages
 
 You can use the [editor on GitHub](https://github.com/Lim-Sung-Jun/Lim-Sung-Jun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
